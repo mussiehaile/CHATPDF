@@ -26,6 +26,7 @@ langchain-community==0.0.32
 langchain-core==0.1.42
 langsmith==0.1.45
 langchain
+langchain-google-genai
 lxml==5.2.1
 marshmallow==3.21.1
 multidict==6.0.5
